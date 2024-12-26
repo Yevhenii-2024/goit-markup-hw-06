@@ -295,7 +295,7 @@ img {
   line-height: 1.2;
   letter-spacing: 0.02em;
   color: #434455;
-  text-transform: uppercase;
+  font-style: normal;
 }
 
 .mobile-addres-link.mobile-menu-tel {
